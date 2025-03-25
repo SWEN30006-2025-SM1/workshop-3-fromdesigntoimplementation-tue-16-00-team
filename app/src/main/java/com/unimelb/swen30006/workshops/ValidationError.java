@@ -1,5 +1,7 @@
 package com.unimelb.swen30006.workshops;
 
+// Test comment to check IDEA Git working
+
 import java.util.HashMap;
 
 /**
